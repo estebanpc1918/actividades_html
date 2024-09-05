@@ -1,0 +1,14 @@
+.frase{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 100px;
+    font-size:larger;
+    color: rgb(25, 0, 255);
+    background-color: rgb(38, 0, 128);
+    
+}
+
+body{
+    background-color: black;
+}
